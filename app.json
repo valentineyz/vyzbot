@@ -41,6 +41,14 @@
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "-1002144859046"
     },
+    "FORCE_SUB_CHANNEL2":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "-1002124651040"
+    },
+    "FORCE_SUB_CHANNEL3":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "-4257289343"
+    },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
       "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
